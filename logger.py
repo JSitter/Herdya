@@ -53,11 +53,11 @@ class Logger(object):
     def __init__(self, file_name):
         # TODO:  Finish this initialization method.  The file_name passed should be the
         # full file name of the file that the logs will be written to.
-        self.file_name = None
+        self.file_name = file_name
 
     def write_metadata(self, pop_size, vacc_percentage, virus_name, mortality_rate,
                        basic_repro_num):
-        # TODO: Finish this method.  The simulation class should use this method
+        # TODOj: Finish this method.  The simulation class should use this method
         # immediately upon creation, to log the specific parameters of the simulation
         # as the first line of the file.  This line of metadata should be tab-delimited
         # (each item separated by a '\t' character).
@@ -67,7 +67,10 @@ class Logger(object):
         # since 'w' overwrites the file.
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
+        file = open('./logs/'+self.file_name, "w")
+        metadata = ("{}\t{}\t{}\t{}\t{}".format(pop_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num))
+        file.write(metadata)
+        file.close()
 
     def log_interaction(self, person1, person2, did_infect=None,
                         person2_vacc=None, person2_sick=None):
