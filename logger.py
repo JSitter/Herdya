@@ -85,7 +85,10 @@ class Logger(object):
         # all the possible edge cases!
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
+        file = open('./logs/'+self.file_name, "w")
+        interaction = ("{}\t{}\t{}\t{}\t{}\t".format(person1, person2, did_infect, person2_vacc, person2_sick))
+        file.write(interaction)
+        file.close()
 
     def log_infection_survival(self, person, did_die_from_infection):
         # TODO: Finish this method.  The Simulation object should use this method to log
