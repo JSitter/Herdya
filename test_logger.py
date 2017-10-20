@@ -12,7 +12,7 @@ def test_write_metadata():
     file = open("./logs/test.log", 'r')
     line_one = file.readline()
     file.close()
-    assert line_one == "100\t.5\tEbola\t.5\t.5"
+    assert line_one == "100\t.5\tEbola\t.5\t.5\n"
     
 def test_log_interaction():
     '''should add interaction to log'''
@@ -21,18 +21,23 @@ def test_log_interaction():
     file = open('./logs/test.log', 'r')
 
     #this needs to verify that log_interaction appends to end of file
-    first_line = file.readline();
+    first_line = file.readline()
+    first_line = file.readline()
     file.close()
-    assert first_line == "person1\tperson2\tdid infect\tperson 2 vacc\tperson2 sick"
+    assert first_line == "person1\tperson2\tdid infect\tperson 2 vacc\tperson2 sick\n"
 
 def test_log_infection_survival():
     ''' should log infection_survival '''
     log = Logger("test.log")
     log.log_infection_survival("person", True)
-    file = open("./logs/test.log")
+    file = open("./logs/test.log", "r")
+    output = file.readline(2)
     file.close();
-    
+    print(output)
 
 def test_log_time_step():
     '''should log time step'''
-    pass
+    log = Logger("test.log")
+    log.log_time_step(1)
+    file = open('./logs/test.log', 'r')
+    

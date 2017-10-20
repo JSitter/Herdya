@@ -1,1 +1,4 @@
-person1	person2	did infect	person 2 vacc	person2 sick	
+100	.5	Ebola	.5	.5
+person1	person2	did infect	person 2 vacc	person2 sick
+person died from infection
+Time step 1 ended, beginning 2...
