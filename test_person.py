@@ -10,5 +10,5 @@ def test_did_survive_infection():
         pat.did_survive_infection()
         if pat.is_alive:
             avg += 1
-    assert (avg ) > 400 and (avg) < 600
+    assert avg > 400 and avg < 600
 
