@@ -161,15 +161,24 @@ class Simulation(object):
         # have passed using the time_step_counter variable.  Make sure you remember to
         # the logger's log_time_step() method at the end of each time step, pass in the
         # time_step_counter variable!
+
+        #Log Start of Simulation
+        self.logger.write_metadata()
         time_step_counter = 0
         # TODO: Remember to set this variable to an intial call of
         # self._simulation_should_continue()!
-        should_continue = None
+        should_continue = self._simulation_should_continue()
+
         while should_continue:
         # TODO: for every iteration of this loop, call self.time_step() to compute another
         # round of this simulation.  At the end of each iteration of this loop, remember
         # to rebind should_continue to another call of self._simulation_should_continue()!
-            pass
+            self.time_step()
+            should_continue = self._simulation_should_continue()
+
+            #log end of time step
+            self.logger.log_time_step(time_step_counter)
+            
         print('The simulation has ended after {time_step_counter} turns.'.format(time_step_counter))
 
     def time_step(self):

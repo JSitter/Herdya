@@ -17,15 +17,13 @@ def test_sim_pop():
 
 def test_sim_continuation():
     sim = Simulation(1, .2, "cat", .5, .5)
-
     sim.population = [getUnVacPerson(1)]
     assert sim._simulation_should_continue()
-
     sim.population = [getVacPerson(1)]
     assert not sim._simulation_should_continue()
-
     sim.population = [getDeadPerson(1)]
     assert not sim._simulation_should_continue()
+
 
 
 def getUnVacPerson(name):
@@ -41,5 +39,4 @@ def getDeadPerson(name):
     from virus import Virus
     patient = Person(name, False, Virus("cat", 1, 1))
     patient.did_survive_infection()
-    print(patient.is_alive)
     return patient
