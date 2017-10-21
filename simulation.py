@@ -82,6 +82,7 @@ class Simulation(object):
         self.basic_repro_num = basic_repro_num
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
             virus_name, population_size, vacc_percentage, initial_infected)
+        self._virus = Virus(virus_name, mortality_rate, basic_repro_num)
 
         # TODO: Create a Logger object and bind it to self.logger.  You should use this
         # logger object to log all events of any importance during the simulation.  Don't forget
@@ -96,8 +97,8 @@ class Simulation(object):
         self.newly_infected = []
         # TODO: Call self._create_population() and pass in the correct parameters.
         # Store the array that this method will return in the self.population attribute.
-        self._create_population(population_size, initial_infected, vacc_percentage)
-        self._virus = Virus(virus_name, mortality_rate, basic_repro_num)
+        self.population = self._create_population(population_size, initial_infected, vacc_percentage)
+
 
     def _create_population(self, pop_size, initial_infected, vacc_percentage):
         # TODO: Finish this method!  This method should be called when the simulation
@@ -107,15 +108,15 @@ class Simulation(object):
         # people vaccinated, correct number of initially infected people).
         population = []
         infected_count = 0
-        index = 0
+        eyeD = 0
 
         while len(population) != pop_size:
+            eyeD = len(population)
             if infected_count !=  initial_infected:
                 # TODO: Create all the infected people first, and then worry about the rest.
                 # Don't forget to increment infected_count every time you create a
                 # new infected person!
-                population[index] = Person(index + 1, False, self._virus)
-                index += 1
+                population.append( Person(eyeD, False, self._virus) )
                 infected_count += 1
             else:
                 # Now create all the rest of the people.
@@ -125,12 +126,12 @@ class Simulation(object):
                 # created as an unvaccinated person.
                 if random.random() < vacc_percentage:
                     #Create Vaccinated person
-                    population[index] = Person(index+1, True)
+                    population.append( Person(eyeD, True) )
                 else:
                     #Create Unvaccinated person
-                    population[index] = Person(index+1, False)
+                    population.append( Person(eyeD, False) )
                 
-                index += 1
+
             # TODO: After any Person object is created, whether sick or healthy,
             # you will need to increment self.next_person_id by 1. Each Person object's
             # ID has to be unique!
