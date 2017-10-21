@@ -14,3 +14,19 @@ def test_sim():
 def test_sim_pop():
     sim = Simulation(10000, .2,"cat", .5, 1.2, 1)
     assert len(sim.population) == 10000
+
+def test_sim_continuation():
+    sim = Simulation(1, .2, "cat", .5, .5)
+
+    sim.population = [getUnVacPerson(1)]
+    assert sim._simulation_should_continue()
+
+    sim.population = [getVacPerson(1)]
+    assert not sim._simulation_should_continue()
+
+
+def getUnVacPerson(name):
+    return newPerson(name, False)
+
+def getVacPerson(name):
+    return new Person(name, True)
