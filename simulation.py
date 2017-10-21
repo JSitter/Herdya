@@ -145,10 +145,12 @@ class Simulation(object):
         #     - There are no infected people left in the population.
         # In all other instances, the simulation should continue.
         for index in self.population:
-            if self.population[index].is_alive and not self.population[index].is_vaccinated
+
+            print( "living? {} vaccinated?{}".format(self.population[index].is_alive, self.population[index].is_vaccinated))
+            if self.population[index].is_alive and not self.population[index].is_vaccinated:
                 return True
         return False
-    
+
     def run(self):
         # TODO: Finish this method.  This method should run the simulation until
         # everyone in the simulation is dead, or the disease no longer exists in the

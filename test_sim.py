@@ -26,7 +26,9 @@ def test_sim_continuation():
 
 
 def getUnVacPerson(name):
-    return newPerson(name, False)
+    from person import Person
+    return Person(name, False)
 
 def getVacPerson(name):
-    return new Person(name, True)
+    from person import Person
+    return Person(name, True)
