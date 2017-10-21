@@ -57,7 +57,7 @@ class Person(object):
         rnd = random()
 
         #check if person has died
-        if rnd > self.infected.mortality_rate:
+        if rnd < self.infected.mortality_rate:
             #person has died
             self.is_alive = False
 

@@ -24,6 +24,9 @@ def test_sim_continuation():
     sim.population = [getVacPerson(1)]
     assert not sim._simulation_should_continue()
 
+    sim.population = [getDeadPerson(1)]
+    assert not sim._simulation_should_continue()
+
 
 def getUnVacPerson(name):
     from person import Person
@@ -32,3 +35,11 @@ def getUnVacPerson(name):
 def getVacPerson(name):
     from person import Person
     return Person(name, True)
+
+def getDeadPerson(name):
+    from person import Person
+    from virus import Virus
+    patient = Person(name, False, Virus("cat", 1, 1))
+    patient.did_survive_infection()
+    print(patient.is_alive)
+    return patient
