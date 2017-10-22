@@ -99,7 +99,7 @@ class Logger(object):
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
         event = ""
-        if did_die_from_infection :
+        if not did_die_from_infection :
             event = "died from infection"
         else:
             event = "survived infection"

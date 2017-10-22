@@ -214,7 +214,10 @@ class Simulation(object):
         self._infect_newly_infected()
         #run single course of virus through people
         for person in self.population:
-            person.did_survive_infection()
+            if person.did_survive_infection():
+                self.logger.log_infection_survival(person._id, True)
+            else:
+                self.logger.log_infection_survival(person, False)
                         
             
 
