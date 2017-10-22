@@ -25,7 +25,7 @@ def test_sim_continuation():
     assert not sim._simulation_should_continue()
 
 def test_sim():
-    sim = Simulation(10000, .2, "cat", .5, .5)
+    sim = Simulation(10, .1, "cat", .5, .5, 5)
     sim.run()
 
 def getUnVacPerson(name):

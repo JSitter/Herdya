@@ -23,7 +23,8 @@
 0	129	None	vaccinated	None
 0	3810	None	vaccinated	None
 0	8396	None	vaccinated	None
-Time step 1 ended, beginning 2...0	3040	None	vaccinated	None
+Time step 1 ended, beginning 2...
+0	3040	None	vaccinated	None
 0	6631	None	vaccinated	None
 0	4785	None	vaccinated	None
 0	7876	None	vaccinated	None
@@ -44,7 +45,8 @@ Time step 1 ended, beginning 2...0	3040	None	vaccinated	None
 0	2250	None	vaccinated	None
 0	3711	None	vaccinated	None
 0	7662	None	vaccinated	None
-Time step 2 ended, beginning 3...0	4928	None	vaccinated	None
+Time step 2 ended, beginning 3...
+0	4928	None	vaccinated	None
 0	5353	None	vaccinated	None
 0	6313	None	vaccinated	None
 0	9201	None	vaccinated	None
@@ -72,7 +74,8 @@ Time step 2 ended, beginning 3...0	4928	None	vaccinated	None
 0	6729	None	vaccinated	None
 0	3355	None	vaccinated	None
 0	9683	None	vaccinated	None
-Time step 3 ended, beginning 4...0	2111	None	vaccinated	None
+Time step 3 ended, beginning 4...
+0	2111	None	vaccinated	None
 0	3349	None	vaccinated	None
 0	6589	None	vaccinated	None
 0	664	None	vaccinated	None
@@ -94,7 +97,8 @@ Time step 3 ended, beginning 4...0	2111	None	vaccinated	None
 0	6523	None	vaccinated	None
 0	5566	None	vaccinated	None
 0	6857	None	vaccinated	None
-Time step 4 ended, beginning 5...0	7750	None	vaccinated	None
+Time step 4 ended, beginning 5...
+0	7750	None	vaccinated	None
 0	7449	None	vaccinated	None
 0	273	None	vaccinated	None
 0	8679	None	vaccinated	None
@@ -111,7 +115,8 @@ Time step 4 ended, beginning 5...0	7750	None	vaccinated	None
 0	5291	None	vaccinated	None
 0	817	None	vaccinated	None
 0	6411	None	vaccinated	None
-Time step 5 ended, beginning 6...0	5172	None	vaccinated	None
+Time step 5 ended, beginning 6...
+0	5172	None	vaccinated	None
 0	47	None	vaccinated	None
 0	4617	None	vaccinated	None
 0	6645	None	vaccinated	None
@@ -125,7 +130,8 @@ Time step 5 ended, beginning 6...0	5172	None	vaccinated	None
 0	8981	None	vaccinated	None
 0	9647	None	vaccinated	None
 0	5473	None	vaccinated	None
-Time step 6 ended, beginning 7...0	202	None	vaccinated	None
+Time step 6 ended, beginning 7...
+0	202	None	vaccinated	None
 0	8814	None	vaccinated	None
 0	5248	None	vaccinated	None
 0	6969	None	vaccinated	None
@@ -143,7 +149,8 @@ Time step 6 ended, beginning 7...0	202	None	vaccinated	None
 0	6574	None	vaccinated	None
 0	7529	None	vaccinated	None
 0	2862	None	vaccinated	None
-Time step 7 ended, beginning 8...0	798	None	vaccinated	None
+Time step 7 ended, beginning 8...
+0	798	None	vaccinated	None
 0	6953	None	vaccinated	None
 0	4352	None	vaccinated	None
 0	8600	None	vaccinated	None
@@ -164,7 +171,8 @@ Time step 7 ended, beginning 8...0	798	None	vaccinated	None
 0	5397	None	vaccinated	None
 0	5431	None	vaccinated	None
 0	9801	None	vaccinated	None
-Time step 8 ended, beginning 9...0	2582	None	vaccinated	None
+Time step 8 ended, beginning 9...
+0	2582	None	vaccinated	None
 0	2002	None	vaccinated	None
 0	3780	None	vaccinated	None
 0	9348	None	vaccinated	None
@@ -180,7 +188,8 @@ Time step 8 ended, beginning 9...0	2582	None	vaccinated	None
 0	8779	None	vaccinated	None
 0	7546	None	vaccinated	None
 0	5316	None	vaccinated	None
-Time step 9 ended, beginning 10...0	4912	None	vaccinated	None
+Time step 9 ended, beginning 10...
+0	4912	None	vaccinated	None
 0	2390	None	vaccinated	None
 0	7975	None	vaccinated	None
 0	4267	None	vaccinated	None
@@ -197,7 +206,8 @@ Time step 9 ended, beginning 10...0	4912	None	vaccinated	None
 0	5856	None	vaccinated	None
 0	5526	None	vaccinated	None
 0	2186	None	vaccinated	None
-Time step 10 ended, beginning 11...0	1399	None	vaccinated	None
+Time step 10 ended, beginning 11...
+0	1399	None	vaccinated	None
 0	2710	None	vaccinated	None
 0	8431	None	vaccinated	None
 0	3141	None	vaccinated	None
@@ -227,7 +237,8 @@ Time step 10 ended, beginning 11...0	1399	None	vaccinated	None
 0	4947	None	vaccinated	None
 0	846	None	vaccinated	None
 0	4959	None	vaccinated	None
-Time step 11 ended, beginning 12...0	8413	None	vaccinated	None
+Time step 11 ended, beginning 12...
+0	8413	None	vaccinated	None
 0	1214	None	vaccinated	None
 0	3057	None	vaccinated	None
 0	2041	None	vaccinated	None
@@ -250,7 +261,8 @@ Time step 11 ended, beginning 12...0	8413	None	vaccinated	None
 0	5538	None	vaccinated	None
 0	4785	None	vaccinated	None
 0	335	None	vaccinated	None
-Time step 12 ended, beginning 13...0	3582	None	vaccinated	None
+Time step 12 ended, beginning 13...
+0	3582	None	vaccinated	None
 0	6068	None	vaccinated	None
 0	2369	None	vaccinated	None
 0	4647	None	vaccinated	None
@@ -275,7 +287,8 @@ Time step 12 ended, beginning 13...0	3582	None	vaccinated	None
 0	5677	None	vaccinated	None
 0	6792	None	vaccinated	None
 0	2052	None	vaccinated	None
-Time step 13 ended, beginning 14...0	5881	None	vaccinated	None
+Time step 13 ended, beginning 14...
+0	5881	None	vaccinated	None
 0	9546	None	vaccinated	None
 0	1651	None	vaccinated	None
 0	3095	None	vaccinated	None
@@ -291,7 +304,8 @@ Time step 13 ended, beginning 14...0	5881	None	vaccinated	None
 0	1313	None	vaccinated	None
 0	1966	None	vaccinated	None
 0	3562	None	vaccinated	None
-Time step 14 ended, beginning 15...0	3944	None	vaccinated	None
+Time step 14 ended, beginning 15...
+0	3944	None	vaccinated	None
 0	4142	None	vaccinated	None
 0	388	None	vaccinated	None
 0	746	None	vaccinated	None
@@ -312,7 +326,8 @@ Time step 14 ended, beginning 15...0	3944	None	vaccinated	None
 0	1810	None	vaccinated	None
 0	2181	None	vaccinated	None
 0	7739	None	vaccinated	None
-Time step 15 ended, beginning 16...0	6938	None	vaccinated	None
+Time step 15 ended, beginning 16...
+0	6938	None	vaccinated	None
 0	7800	None	vaccinated	None
 0	7870	None	vaccinated	None
 0	2110	None	vaccinated	None
@@ -324,7 +339,8 @@ Time step 15 ended, beginning 16...0	6938	None	vaccinated	None
 0	6411	None	vaccinated	None
 0	5926	None	vaccinated	None
 0	3132	None	vaccinated	None
-Time step 16 ended, beginning 17...0	5818	None	vaccinated	None
+Time step 16 ended, beginning 17...
+0	5818	None	vaccinated	None
 0	9157	None	vaccinated	None
 0	4572	None	vaccinated	None
 0	5674	None	vaccinated	None
@@ -340,7 +356,8 @@ Time step 16 ended, beginning 17...0	5818	None	vaccinated	None
 0	8988	None	vaccinated	None
 0	3672	None	vaccinated	None
 0	4002	None	vaccinated	None
-Time step 17 ended, beginning 18...0	8685	None	vaccinated	None
+Time step 17 ended, beginning 18...
+0	8685	None	vaccinated	None
 0	4272	None	vaccinated	None
 0	7246	None	vaccinated	None
 0	6618	None	vaccinated	None
@@ -355,7 +372,8 @@ Time step 17 ended, beginning 18...0	8685	None	vaccinated	None
 0	4224	None	vaccinated	None
 0	6212	None	vaccinated	None
 0	3340	None	vaccinated	None
-Time step 18 ended, beginning 19...0	1235	None	vaccinated	None
+Time step 18 ended, beginning 19...
+0	1235	None	vaccinated	None
 0	4338	None	vaccinated	None
 0	2686	None	vaccinated	None
 0	7171	None	vaccinated	None
@@ -377,7 +395,8 @@ Time step 18 ended, beginning 19...0	1235	None	vaccinated	None
 0	4247	None	vaccinated	None
 0	8006	None	vaccinated	None
 0	9265	None	vaccinated	None
-Time step 19 ended, beginning 20...0	142	None	vaccinated	None
+Time step 19 ended, beginning 20...
+0	142	None	vaccinated	None
 0	8372	None	vaccinated	None
 0	7117	None	vaccinated	None
 0	7579	None	vaccinated	None
@@ -394,7 +413,8 @@ Time step 19 ended, beginning 20...0	142	None	vaccinated	None
 0	6785	None	vaccinated	None
 0	5018	None	vaccinated	None
 0	5805	None	vaccinated	None
-Time step 20 ended, beginning 21...0	2839	None	vaccinated	None
+Time step 20 ended, beginning 21...
+0	2839	None	vaccinated	None
 0	3162	None	vaccinated	None
 0	4716	None	vaccinated	None
 0	2354	None	vaccinated	None
@@ -418,7 +438,8 @@ Time step 20 ended, beginning 21...0	2839	None	vaccinated	None
 0	195	None	vaccinated	None
 0	3173	None	vaccinated	None
 0	6313	None	vaccinated	None
-Time step 21 ended, beginning 22...0	5624	None	vaccinated	None
+Time step 21 ended, beginning 22...
+0	5624	None	vaccinated	None
 0	3548	None	vaccinated	None
 0	4073	None	vaccinated	None
 0	9302	None	vaccinated	None
@@ -435,7 +456,8 @@ Time step 21 ended, beginning 22...0	5624	None	vaccinated	None
 0	8614	None	vaccinated	None
 0	928	None	vaccinated	None
 0	7109	None	vaccinated	None
-Time step 22 ended, beginning 23...0	1098	None	vaccinated	None
+Time step 22 ended, beginning 23...
+0	1098	None	vaccinated	None
 0	193	None	vaccinated	None
 0	771	None	vaccinated	None
 0	5539	None	vaccinated	None
@@ -454,7 +476,8 @@ Time step 22 ended, beginning 23...0	1098	None	vaccinated	None
 0	7025	None	vaccinated	None
 0	4746	None	vaccinated	None
 0	7333	None	vaccinated	None
-Time step 23 ended, beginning 24...0	7373	None	vaccinated	None
+Time step 23 ended, beginning 24...
+0	7373	None	vaccinated	None
 0	8814	None	vaccinated	None
 0	7744	None	vaccinated	None
 0	9420	None	vaccinated	None
@@ -468,7 +491,8 @@ Time step 23 ended, beginning 24...0	7373	None	vaccinated	None
 0	4996	None	vaccinated	None
 0	3312	None	vaccinated	None
 0	3097	None	vaccinated	None
-Time step 24 ended, beginning 25...0	8447	None	vaccinated	None
+Time step 24 ended, beginning 25...
+0	8447	None	vaccinated	None
 0	5294	None	vaccinated	None
 0	7271	None	vaccinated	None
 0	452	None	vaccinated	None
@@ -490,7 +514,8 @@ Time step 24 ended, beginning 25...0	8447	None	vaccinated	None
 0	2818	None	vaccinated	None
 0	390	None	vaccinated	None
 0	2013	None	vaccinated	None
-Time step 25 ended, beginning 26...0	5752	None	vaccinated	None
+Time step 25 ended, beginning 26...
+0	5752	None	vaccinated	None
 0	5953	None	vaccinated	None
 0	7612	None	vaccinated	None
 0	5171	None	vaccinated	None
@@ -511,7 +536,8 @@ Time step 25 ended, beginning 26...0	5752	None	vaccinated	None
 0	6785	None	vaccinated	None
 0	7074	None	vaccinated	None
 0	7847	None	vaccinated	None
-Time step 26 ended, beginning 27...0	7074	None	vaccinated	None
+Time step 26 ended, beginning 27...
+0	7074	None	vaccinated	None
 0	3312	None	vaccinated	None
 0	9284	None	vaccinated	None
 0	1835	None	vaccinated	None
@@ -532,7 +558,8 @@ Time step 26 ended, beginning 27...0	7074	None	vaccinated	None
 0	6341	None	vaccinated	None
 0	752	None	vaccinated	None
 0	4321	None	vaccinated	None
-Time step 27 ended, beginning 28...0	8792	None	vaccinated	None
+Time step 27 ended, beginning 28...
+0	8792	None	vaccinated	None
 0	2250	None	vaccinated	None
 0	7950	None	vaccinated	None
 0	7496	None	vaccinated	None
@@ -553,7 +580,8 @@ Time step 27 ended, beginning 28...0	8792	None	vaccinated	None
 0	4650	None	vaccinated	None
 0	1004	None	vaccinated	None
 0	5677	None	vaccinated	None
-Time step 28 ended, beginning 29...0	9572	None	vaccinated	None
+Time step 28 ended, beginning 29...
+0	9572	None	vaccinated	None
 0	7628	None	vaccinated	None
 0	3313	None	vaccinated	None
 0	197	None	vaccinated	None
@@ -576,7 +604,8 @@ Time step 28 ended, beginning 29...0	9572	None	vaccinated	None
 0	3526	None	vaccinated	None
 0	1144	None	vaccinated	None
 0	2156	None	vaccinated	None
-Time step 29 ended, beginning 30...0	9295	None	vaccinated	None
+Time step 29 ended, beginning 30...
+0	9295	None	vaccinated	None
 0	5161	None	vaccinated	None
 0	1380	None	vaccinated	None
 0	4119	None	vaccinated	None
@@ -596,7 +625,8 @@ Time step 29 ended, beginning 30...0	9295	None	vaccinated	None
 0	5063	None	vaccinated	None
 0	4739	None	vaccinated	None
 0	3548	None	vaccinated	None
-Time step 30 ended, beginning 31...0	8111	None	vaccinated	None
+Time step 30 ended, beginning 31...
+0	8111	None	vaccinated	None
 0	6334	None	vaccinated	None
 0	5881	None	vaccinated	None
 0	5360	None	vaccinated	None
@@ -615,7 +645,8 @@ Time step 30 ended, beginning 31...0	8111	None	vaccinated	None
 0	5926	None	vaccinated	None
 0	2434	None	vaccinated	None
 0	9930	None	vaccinated	None
-Time step 31 ended, beginning 32...0	2722	None	vaccinated	None
+Time step 31 ended, beginning 32...
+0	2722	None	vaccinated	None
 0	6050	None	vaccinated	None
 0	1424	None	vaccinated	None
 0	9302	None	vaccinated	None
@@ -636,7 +667,8 @@ Time step 31 ended, beginning 32...0	2722	None	vaccinated	None
 0	9822	None	vaccinated	None
 0	6329	None	vaccinated	None
 0	1424	None	vaccinated	None
-Time step 32 ended, beginning 33...0	6485	None	vaccinated	None
+Time step 32 ended, beginning 33...
+0	6485	None	vaccinated	None
 0	2775	None	vaccinated	None
 0	4174	None	vaccinated	None
 0	311	None	vaccinated	None
@@ -656,7 +688,8 @@ Time step 32 ended, beginning 33...0	6485	None	vaccinated	None
 0	3007	None	vaccinated	None
 0	2002	None	vaccinated	None
 0	3068	None	vaccinated	None
-Time step 33 ended, beginning 34...0	7479	None	vaccinated	None
+Time step 33 ended, beginning 34...
+0	7479	None	vaccinated	None
 0	9425	None	vaccinated	None
 0	127	None	vaccinated	None
 0	93	None	vaccinated	None
@@ -674,7 +707,8 @@ Time step 33 ended, beginning 34...0	7479	None	vaccinated	None
 0	1617	None	vaccinated	None
 0	7656	None	vaccinated	None
 0	5674	None	vaccinated	None
-Time step 34 ended, beginning 35...0	3524	None	vaccinated	None
+Time step 34 ended, beginning 35...
+0	3524	None	vaccinated	None
 0	1663	None	vaccinated	None
 0	1367	None	vaccinated	None
 0	7306	None	vaccinated	None
@@ -695,7 +729,8 @@ Time step 34 ended, beginning 35...0	3524	None	vaccinated	None
 0	5566	None	vaccinated	None
 0	127	None	vaccinated	None
 0	8151	None	vaccinated	None
-Time step 35 ended, beginning 36...0	7253	None	vaccinated	None
+Time step 35 ended, beginning 36...
+0	7253	None	vaccinated	None
 0	3870	None	vaccinated	None
 0	2582	None	vaccinated	None
 0	1035	None	vaccinated	None
@@ -717,7 +752,8 @@ Time step 35 ended, beginning 36...0	7253	None	vaccinated	None
 0	8189	None	vaccinated	None
 0	6817	None	vaccinated	None
 0	639	None	vaccinated	None
-Time step 36 ended, beginning 37...0	7646	None	vaccinated	None
+Time step 36 ended, beginning 37...
+0	7646	None	vaccinated	None
 0	657	None	vaccinated	None
 0	68	None	vaccinated	None
 0	2656	None	vaccinated	None
@@ -733,7 +769,8 @@ Time step 36 ended, beginning 37...0	7646	None	vaccinated	None
 0	4027	None	vaccinated	None
 0	4426	None	vaccinated	None
 0	968	None	vaccinated	None
-Time step 37 ended, beginning 38...0	1505	None	vaccinated	None
+Time step 37 ended, beginning 38...
+0	1505	None	vaccinated	None
 0	6134	None	vaccinated	None
 0	3215	None	vaccinated	None
 0	4184	None	vaccinated	None
@@ -757,1361 +794,6 @@ Time step 37 ended, beginning 38...0	1505	None	vaccinated	None
 0	34	None	vaccinated	None
 0	4277	None	vaccinated	None
 0	4554	None	vaccinated	None
-Time step 38 ended, beginning 39...0	798	None	vaccinated	None
-0	4261	None	vaccinated	None
-0	6627	None	vaccinated	None
-0	4912	None	vaccinated	None
-0	6377	None	vaccinated	None
-0	7305	None	vaccinated	None
-0	5071	None	vaccinated	None
-0	8501	None	vaccinated	None
-0	9793	None	vaccinated	None
-0	1368	None	vaccinated	None
-0	1677	None	vaccinated	None
-0	2273	None	vaccinated	None
-0	1333	None	vaccinated	None
-0	4166	None	vaccinated	None
-0	3067	None	vaccinated	None
-0	984	None	vaccinated	None
-0	9079	None	vaccinated	None
-Time step 39 ended, beginning 40...0	4280	None	vaccinated	None
-0	1388	None	vaccinated	None
-0	4559	None	vaccinated	None
-0	9813	None	vaccinated	None
-0	8254	None	vaccinated	None
-0	5150	None	vaccinated	None
-0	7829	None	vaccinated	None
-0	9843	None	vaccinated	None
-0	3578	None	vaccinated	None
-0	8773	None	vaccinated	None
-0	5184	None	vaccinated	None
-0	3872	None	vaccinated	None
-0	5586	None	vaccinated	None
-0	5034	None	vaccinated	None
-0	280	None	vaccinated	None
-0	2808	None	vaccinated	None
-Time step 40 ended, beginning 41...0	9678	None	vaccinated	None
-0	5420	None	vaccinated	None
-0	3661	None	vaccinated	None
-0	4128	None	vaccinated	None
-0	9177	None	vaccinated	None
-0	5422	None	vaccinated	None
-0	7503	None	vaccinated	None
-0	1348	None	vaccinated	None
-0	5369	None	vaccinated	None
-0	6511	None	vaccinated	None
-0	4174	None	vaccinated	None
-0	986	None	vaccinated	None
-0	7170	None	vaccinated	None
-0	9179	None	vaccinated	None
-0	1345	None	vaccinated	None
-0	2111	None	vaccinated	None
-0	7696	None	vaccinated	None
-Time step 41 ended, beginning 42...0	8902	None	vaccinated	None
-0	2143	None	vaccinated	None
-0	356	None	vaccinated	None
-0	4442	None	vaccinated	None
-0	8374	None	vaccinated	None
-0	367	None	vaccinated	None
-0	6518	None	vaccinated	None
-0	6678	None	vaccinated	None
-0	8162	None	vaccinated	None
-0	6265	None	vaccinated	None
-0	3089	None	vaccinated	None
-0	672	None	vaccinated	None
-0	1677	None	vaccinated	None
-0	1080	None	vaccinated	None
-0	1393	None	vaccinated	None
-0	6301	None	vaccinated	None
-0	6875	None	vaccinated	None
-0	7043	None	vaccinated	None
-0	791	None	vaccinated	None
-0	7954	None	vaccinated	None
-Time step 42 ended, beginning 43...0	5420	None	vaccinated	None
-0	3408	None	vaccinated	None
-0	4099	None	vaccinated	None
-0	8261	None	vaccinated	None
-0	5420	None	vaccinated	None
-0	4097	None	vaccinated	None
-0	3148	None	vaccinated	None
-0	3089	None	vaccinated	None
-0	3371	None	vaccinated	None
-0	1144	None	vaccinated	None
-0	8520	None	vaccinated	None
-0	466	None	vaccinated	None
-0	374	None	vaccinated	None
-0	2347	None	vaccinated	None
-0	6168	None	vaccinated	None
-0	284	None	vaccinated	None
-0	6316	None	vaccinated	None
-0	6882	None	vaccinated	None
-0	4177	None	vaccinated	None
-0	9484	None	vaccinated	None
-0	2855	None	vaccinated	None
-0	4618	None	vaccinated	None
-0	5360	None	vaccinated	None
-0	9164	None	vaccinated	None
-Time step 43 ended, beginning 44...0	1386	None	vaccinated	None
-0	1352	None	vaccinated	None
-0	9567	None	vaccinated	None
-0	4526	None	vaccinated	None
-0	4119	None	vaccinated	None
-0	494	None	vaccinated	None
-0	4224	None	vaccinated	None
-0	1188	None	vaccinated	None
-0	6068	None	vaccinated	None
-0	6155	None	vaccinated	None
-0	5987	None	vaccinated	None
-0	8088	None	vaccinated	None
-0	9632	None	vaccinated	None
-0	6938	None	vaccinated	None
-0	2347	None	vaccinated	None
-0	456	None	vaccinated	None
-0	5072	None	vaccinated	None
-0	8114	None	vaccinated	None
-0	6776	None	vaccinated	None
-0	9624	None	vaccinated	None
-0	6313	None	vaccinated	None
-0	5657	None	vaccinated	None
-0	8238	None	vaccinated	None
-Time step 44 ended, beginning 45...0	1479	None	vaccinated	None
-0	855	None	vaccinated	None
-0	6410	None	vaccinated	None
-0	1150	None	vaccinated	None
-0	7669	None	vaccinated	None
-0	1799	None	vaccinated	None
-0	6792	None	vaccinated	None
-0	4940	None	vaccinated	None
-0	5597	None	vaccinated	None
-0	9317	None	vaccinated	None
-0	6070	None	vaccinated	None
-0	6771	None	vaccinated	None
-0	3589	None	vaccinated	None
-0	4272	None	vaccinated	None
-0	1222	None	vaccinated	None
-0	2434	None	vaccinated	None
-0	6114	None	vaccinated	None
-0	9944	None	vaccinated	None
-0	6620	None	vaccinated	None
-0	1335	None	vaccinated	None
-0	2380	None	vaccinated	None
-0	7039	None	vaccinated	None
-0	9298	None	vaccinated	None
-0	7892	None	vaccinated	None
-0	3356	None	vaccinated	None
-0	3001	None	vaccinated	None
-0	1287	None	vaccinated	None
-Time step 45 ended, beginning 46...0	2181	None	vaccinated	None
-0	9349	None	vaccinated	None
-0	3993	None	vaccinated	None
-0	7646	None	vaccinated	None
-0	5667	None	vaccinated	None
-0	3706	None	vaccinated	None
-0	6882	None	vaccinated	None
-0	197	None	vaccinated	None
-0	3089	None	vaccinated	None
-0	5780	None	vaccinated	None
-0	2852	None	vaccinated	None
-0	8435	None	vaccinated	None
-0	3978	None	vaccinated	None
-0	8848	None	vaccinated	None
-0	9546	None	vaccinated	None
-0	2273	None	vaccinated	None
-0	1099	None	vaccinated	None
-0	1049	None	vaccinated	None
-0	1687	None	vaccinated	None
-0	1538	None	vaccinated	None
-0	1287	None	vaccinated	None
-Time step 46 ended, beginning 47...0	3425	None	vaccinated	None
-0	6411	None	vaccinated	None
-0	6306	None	vaccinated	None
-0	6427	None	vaccinated	None
-0	2870	None	vaccinated	None
-0	8308	None	vaccinated	None
-0	6785	None	vaccinated	None
-0	166	None	vaccinated	None
-0	3294	None	vaccinated	None
-0	806	None	vaccinated	None
-0	9850	None	vaccinated	None
-0	5618	None	vaccinated	None
-0	7343	None	vaccinated	None
-0	6792	None	vaccinated	None
-0	1098	None	vaccinated	None
-0	4785	None	vaccinated	None
-0	3898	None	vaccinated	None
-0	8317	None	vaccinated	None
-0	8237	None	vaccinated	None
-0	2772	None	vaccinated	None
-0	5374	None	vaccinated	None
-0	4530	None	vaccinated	None
-0	9619	None	vaccinated	None
-0	8137	None	vaccinated	None
-0	6552	None	vaccinated	None
-0	7216	None	vaccinated	None
-Time step 47 ended, beginning 48...0	8325	None	vaccinated	None
-0	2728	None	vaccinated	None
-0	388	None	vaccinated	None
-0	4317	None	vaccinated	None
-0	3108	None	vaccinated	None
-0	8782	None	vaccinated	None
-0	9737	None	vaccinated	None
-0	8447	None	vaccinated	None
-0	2320	None	vaccinated	None
-0	5973	None	vaccinated	None
-0	9685	None	vaccinated	None
-0	1424	None	vaccinated	None
-0	5360	None	vaccinated	None
-0	8072	None	vaccinated	None
-0	8763	None	vaccinated	None
-0	7181	None	vaccinated	None
-0	11	None	vaccinated	None
-0	2291	None	vaccinated	None
-0	3661	None	vaccinated	None
-0	2587	None	vaccinated	None
-0	186	None	vaccinated	None
-0	6488	None	vaccinated	None
-0	7271	None	vaccinated	None
-0	4099	None	vaccinated	None
-Time step 48 ended, beginning 49...0	5924	None	vaccinated	None
-0	1648	None	vaccinated	None
-0	9491	None	vaccinated	None
-0	6645	None	vaccinated	None
-0	7382	None	vaccinated	None
-0	6430	None	vaccinated	None
-0	4116	None	vaccinated	None
-0	9007	None	vaccinated	None
-0	7024	None	vaccinated	None
-0	2040	None	vaccinated	None
-0	2238	None	vaccinated	None
-0	5011	None	vaccinated	None
-0	6325	None	vaccinated	None
-0	9967	None	vaccinated	None
-0	212	None	vaccinated	None
-0	6430	None	vaccinated	None
-0	5063	None	vaccinated	None
-0	9379	None	vaccinated	None
-Time step 49 ended, beginning 50...0	4526	None	vaccinated	None
-0	1714	None	vaccinated	None
-0	3451	None	vaccinated	None
-0	9424	None	vaccinated	None
-0	1108	None	vaccinated	None
-0	2350	None	vaccinated	None
-0	9460	None	vaccinated	None
-0	4631	None	vaccinated	None
-0	2972	None	vaccinated	None
-0	9660	None	vaccinated	None
-0	9457	None	vaccinated	None
-0	3309	None	vaccinated	None
-0	273	None	vaccinated	None
-0	8651	None	vaccinated	None
-0	2639	None	vaccinated	None
-0	6305	None	vaccinated	None
-Time step 50 ended, beginning 51...0	7731	None	vaccinated	None
-0	9162	None	vaccinated	None
-0	5336	None	vaccinated	None
-0	1272	None	vaccinated	None
-0	7171	None	vaccinated	None
-0	8082	None	vaccinated	None
-0	967	None	vaccinated	None
-0	2557	None	vaccinated	None
-0	548	None	vaccinated	None
-0	3427	None	vaccinated	None
-0	212	None	vaccinated	None
-0	8681	None	vaccinated	None
-0	4617	None	vaccinated	None
-0	2395	None	vaccinated	None
-0	5294	None	vaccinated	None
-0	9888	None	vaccinated	None
-0	1843	None	vaccinated	None
-0	1707	None	vaccinated	None
-0	1687	None	vaccinated	None
-Time step 51 ended, beginning 52...0	7090	None	vaccinated	None
-0	8903	None	vaccinated	None
-0	8922	None	vaccinated	None
-0	7109	None	vaccinated	None
-0	4073	None	vaccinated	None
-0	6173	None	vaccinated	None
-0	878	None	vaccinated	None
-0	5525	None	vaccinated	None
-0	2186	None	vaccinated	None
-0	3151	None	vaccinated	None
-0	2722	None	vaccinated	None
-0	1452	None	vaccinated	None
-0	6384	None	vaccinated	None
-0	4572	None	vaccinated	None
-0	9179	None	vaccinated	None
-Time step 52 ended, beginning 53...0	1479	None	vaccinated	None
-0	2878	None	vaccinated	None
-0	3652	None	vaccinated	None
-0	8362	None	vaccinated	None
-0	3038	None	vaccinated	None
-0	1553	None	vaccinated	None
-0	4280	None	vaccinated	None
-0	6591	None	vaccinated	None
-0	2468	None	vaccinated	None
-0	7063	None	vaccinated	None
-0	5902	None	vaccinated	None
-0	1513	None	vaccinated	None
-0	6323	None	vaccinated	None
-0	4786	None	vaccinated	None
-0	6334	None	vaccinated	None
-0	8818	None	vaccinated	None
-0	5922	None	vaccinated	None
-Time step 53 ended, beginning 54...0	3497	None	vaccinated	None
-0	9078	None	vaccinated	None
-0	6457	None	vaccinated	None
-0	8423	None	vaccinated	None
-0	6639	None	vaccinated	None
-0	8447	None	vaccinated	None
-0	1322	None	vaccinated	None
-0	1479	None	vaccinated	None
-0	1604	None	vaccinated	None
-0	7070	None	vaccinated	None
-0	2354	None	vaccinated	None
-0	43	None	vaccinated	None
-0	5427	None	vaccinated	None
-0	1705	None	vaccinated	None
-0	6995	None	vaccinated	None
-0	6792	None	vaccinated	None
-0	6381	None	vaccinated	None
-0	9685	None	vaccinated	None
-0	4290	None	vaccinated	None
-0	8374	None	vaccinated	None
-Time step 54 ended, beginning 55...0	4716	None	vaccinated	None
-0	3618	None	vaccinated	None
-0	7054	None	vaccinated	None
-0	8598	None	vaccinated	None
-0	3195	None	vaccinated	None
-0	5677	None	vaccinated	None
-0	229	None	vaccinated	None
-0	7551	None	vaccinated	None
-0	1108	None	vaccinated	None
-0	392	None	vaccinated	None
-0	5669	None	vaccinated	None
-0	4795	None	vaccinated	None
-0	8317	None	vaccinated	None
-0	7216	None	vaccinated	None
-0	6430	None	vaccinated	None
-0	8970	None	vaccinated	None
-0	2587	None	vaccinated	None
-0	9949	None	vaccinated	None
-0	7046	None	vaccinated	None
-0	5474	None	vaccinated	None
-0	1038	None	vaccinated	None
-0	9843	None	vaccinated	None
-Time step 55 ended, beginning 56...0	4047	None	vaccinated	None
-0	6511	None	vaccinated	None
-0	9193	None	vaccinated	None
-0	5812	None	vaccinated	None
-0	4208	None	vaccinated	None
-0	9766	None	vaccinated	None
-0	8594	None	vaccinated	None
-0	430	None	vaccinated	None
-0	4027	None	vaccinated	None
-0	9679	None	vaccinated	None
-0	8374	None	vaccinated	None
-0	2052	None	vaccinated	None
-0	3463	None	vaccinated	None
-0	972	None	vaccinated	None
-0	4213	None	vaccinated	None
-0	4119	None	vaccinated	None
-0	6463	None	vaccinated	None
-0	7975	None	vaccinated	None
-Time step 56 ended, beginning 57...0	6451	None	vaccinated	None
-0	951	None	vaccinated	None
-0	8900	None	vaccinated	None
-0	4047	None	vaccinated	None
-0	298	None	vaccinated	None
-0	7054	None	vaccinated	None
-0	4745	None	vaccinated	None
-0	9157	None	vaccinated	None
-0	3555	None	vaccinated	None
-0	1616	None	vaccinated	None
-0	7001	None	vaccinated	None
-0	8572	None	vaccinated	None
-0	1138	None	vaccinated	None
-0	5162	None	vaccinated	None
-0	1098	None	vaccinated	None
-0	5542	None	vaccinated	None
-0	4384	None	vaccinated	None
-0	2567	None	vaccinated	None
-0	3427	None	vaccinated	None
-0	5863	None	vaccinated	None
-0	2222	None	vaccinated	None
-0	9156	None	vaccinated	None
-Time step 57 ended, beginning 58...0	494	None	vaccinated	None
-0	1523	None	vaccinated	None
-0	1377	None	vaccinated	None
-0	5973	None	vaccinated	None
-0	9420	None	vaccinated	None
-0	7852	None	vaccinated	None
-0	6306	None	vaccinated	None
-0	513	None	vaccinated	None
-0	3286	None	vaccinated	None
-0	6577	None	vaccinated	None
-0	1582	None	vaccinated	None
-0	8501	None	vaccinated	None
-0	519	None	vaccinated	None
-0	1705	None	vaccinated	None
-0	8238	None	vaccinated	None
-0	6952	None	vaccinated	None
-0	1652	None	vaccinated	None
-0	6343	None	vaccinated	None
-0	5247	None	vaccinated	None
-0	8295	None	vaccinated	None
-0	7579	None	vaccinated	None
-0	1945	None	vaccinated	None
-0	525	None	vaccinated	None
-0	2382	None	vaccinated	None
-0	9064	None	vaccinated	None
-Time step 58 ended, beginning 59...0	1927	None	vaccinated	None
-0	9460	None	vaccinated	None
-0	423	None	vaccinated	None
-0	9179	None	vaccinated	None
-0	3514	None	vaccinated	None
-0	9264	None	vaccinated	None
-0	7130	None	vaccinated	None
-0	968	None	vaccinated	None
-0	593	None	vaccinated	None
-0	7283	None	vaccinated	None
-0	2015	None	vaccinated	None
-0	7283	None	vaccinated	None
-0	9949	None	vaccinated	None
-0	9817	None	vaccinated	None
-0	1882	None	vaccinated	None
-0	6682	None	vaccinated	None
-0	8335	None	vaccinated	None
-Time step 59 ended, beginning 60...0	9179	None	vaccinated	None
-0	5285	None	vaccinated	None
-0	9616	None	vaccinated	None
-0	9668	None	vaccinated	None
-0	7529	None	vaccinated	None
-0	3195	None	vaccinated	None
-0	6574	None	vaccinated	None
-0	1750	None	vaccinated	None
-0	4213	None	vaccinated	None
-0	3292	None	vaccinated	None
-0	6501	None	vaccinated	None
-0	8097	None	vaccinated	None
-0	5769	None	vaccinated	None
-0	1810	None	vaccinated	None
-0	7193	None	vaccinated	None
-0	3451	None	vaccinated	None
-0	8384	None	vaccinated	None
-0	1649	None	vaccinated	None
-0	2219	None	vaccinated	None
-0	5697	None	vaccinated	None
-0	9413	None	vaccinated	None
-0	8360	None	vaccinated	None
-0	6857	None	vaccinated	None
-Time step 60 ended, beginning 61...0	6402	None	vaccinated	None
-0	5247	None	vaccinated	None
-0	6436	None	vaccinated	None
-0	3892	None	vaccinated	None
-0	2212	None	vaccinated	None
-0	7193	None	vaccinated	None
-0	7134	None	vaccinated	None
-0	5291	None	vaccinated	None
-0	4693	None	vaccinated	None
-0	2928	None	vaccinated	None
-0	4550	None	vaccinated	None
-0	1866	None	vaccinated	None
-0	6748	None	vaccinated	None
-0	197	None	vaccinated	None
-0	9077	None	vaccinated	None
-0	6305	None	vaccinated	None
-0	5443	None	vaccinated	None
-0	494	None	vaccinated	None
-0	7216	None	vaccinated	None
-0	182	None	vaccinated	None
-0	6528	None	vaccinated	None
-0	8072	None	vaccinated	None
-0	4739	None	vaccinated	None
-Time step 61 ended, beginning 62...0	2839	None	vaccinated	None
-0	2465	None	vaccinated	None
-0	3065	None	vaccinated	None
-0	1030	None	vaccinated	None
-0	5951	None	vaccinated	None
-0	9585	None	vaccinated	None
-0	8535	None	vaccinated	None
-0	9633	None	vaccinated	None
-0	4115	None	vaccinated	None
-0	6171	None	vaccinated	None
-0	7070	None	vaccinated	None
-0	2476	None	vaccinated	None
-0	7367	None	vaccinated	None
-0	39	None	vaccinated	None
-0	8651	None	vaccinated	None
-0	7253	None	vaccinated	None
-0	9148	None	vaccinated	None
-0	8769	None	vaccinated	None
-0	9848	None	vaccinated	None
-0	4948	None	vaccinated	None
-0	9073	None	vaccinated	None
-0	6583	None	vaccinated	None
-Time step 62 ended, beginning 63...0	296	None	vaccinated	None
-0	195	None	vaccinated	None
-0	263	None	vaccinated	None
-0	412	None	vaccinated	None
-0	6171	None	vaccinated	None
-0	1731	None	vaccinated	None
-0	1592	None	vaccinated	None
-0	9312	None	vaccinated	None
-0	361	None	vaccinated	None
-0	2362	None	vaccinated	None
-0	9273	None	vaccinated	None
-0	6496	None	vaccinated	None
-0	9481	None	vaccinated	None
-0	8044	None	vaccinated	None
-0	371	None	vaccinated	None
-0	939	None	vaccinated	None
-Time step 63 ended, beginning 64...0	6489	None	vaccinated	None
-0	2362	None	vaccinated	None
-0	5291	None	vaccinated	None
-0	6316	None	vaccinated	None
-0	1617	None	vaccinated	None
-0	8028	None	vaccinated	None
-0	5290	None	vaccinated	None
-0	7763	None	vaccinated	None
-0	9250	None	vaccinated	None
-0	7511	None	vaccinated	None
-0	2674	None	vaccinated	None
-0	4166	None	vaccinated	None
-0	2011	None	vaccinated	None
-0	5642	None	vaccinated	None
-0	9191	None	vaccinated	None
-Time step 64 ended, beginning 65...0	9241	None	vaccinated	None
-0	4618	None	vaccinated	None
-0	3904	None	vaccinated	None
-0	8660	None	vaccinated	None
-0	7064	None	vaccinated	None
-0	6995	None	vaccinated	None
-0	7678	None	vaccinated	None
-0	8344	None	vaccinated	None
-0	7672	None	vaccinated	None
-0	2841	None	vaccinated	None
-0	5316	None	vaccinated	None
-0	5899	None	vaccinated	None
-0	7470	None	vaccinated	None
-0	7305	None	vaccinated	None
-0	784	None	vaccinated	None
-Time step 65 ended, beginning 66...0	1635	None	vaccinated	None
-0	3723	None	vaccinated	None
-0	9631	None	vaccinated	None
-0	4040	None	vaccinated	None
-0	8240	None	vaccinated	None
-0	2143	None	vaccinated	None
-0	7769	None	vaccinated	None
-0	6742	None	vaccinated	None
-0	7292	None	vaccinated	None
-0	3526	None	vaccinated	None
-0	1284	None	vaccinated	None
-0	5374	None	vaccinated	None
-0	2212	None	vaccinated	None
-0	9179	None	vaccinated	None
-0	2833	None	vaccinated	None
-0	846	None	vaccinated	None
-0	7546	None	vaccinated	None
-0	4785	None	vaccinated	None
-Time step 66 ended, beginning 67...0	2518	None	vaccinated	None
-0	494	None	vaccinated	None
-0	1764	None	vaccinated	None
-0	9546	None	vaccinated	None
-0	229	None	vaccinated	None
-0	129	None	vaccinated	None
-0	8435	None	vaccinated	None
-0	3004	None	vaccinated	None
-0	4800	None	vaccinated	None
-0	5657	None	vaccinated	None
-0	7481	None	vaccinated	None
-0	7590	None	vaccinated	None
-0	3484	None	vaccinated	None
-0	2131	None	vaccinated	None
-Time step 67 ended, beginning 68...0	2987	None	vaccinated	None
-0	577	None	vaccinated	None
-0	7886	None	vaccinated	None
-0	8151	None	vaccinated	None
-0	1476	None	vaccinated	None
-0	1961	None	vaccinated	None
-0	2517	None	vaccinated	None
-0	8021	None	vaccinated	None
-0	2881	None	vaccinated	None
-0	7557	None	vaccinated	None
-0	6802	None	vaccinated	None
-0	1179	None	vaccinated	None
-0	2884	None	vaccinated	None
-0	6462	None	vaccinated	None
-0	626	None	vaccinated	None
-0	270	None	vaccinated	None
-Time step 68 ended, beginning 69...0	6370	None	vaccinated	None
-0	8362	None	vaccinated	None
-0	5962	None	vaccinated	None
-0	3201	None	vaccinated	None
-0	5978	None	vaccinated	None
-0	2622	None	vaccinated	None
-0	7549	None	vaccinated	None
-0	4885	None	vaccinated	None
-0	7769	None	vaccinated	None
-0	1718	None	vaccinated	None
-0	2108	None	vaccinated	None
-0	8344	None	vaccinated	None
-0	3195	None	vaccinated	None
-0	8777	None	vaccinated	None
-0	2830	None	vaccinated	None
-0	6134	None	vaccinated	None
-0	9673	None	vaccinated	None
-Time step 69 ended, beginning 70...0	5973	None	vaccinated	None
-0	9141	None	vaccinated	None
-0	5923	None	vaccinated	None
-0	5294	None	vaccinated	None
-0	8032	None	vaccinated	None
-0	423	None	vaccinated	None
-0	7162	None	vaccinated	None
-0	2479	None	vaccinated	None
-0	9967	None	vaccinated	None
-0	2354	None	vaccinated	None
-0	1701	None	vaccinated	None
-0	3176	None	vaccinated	None
-0	5746	None	vaccinated	None
-0	5075	None	vaccinated	None
-0	1682	None	vaccinated	None
-0	2013	None	vaccinated	None
-0	8844	None	vaccinated	None
-0	1820	None	vaccinated	None
-0	8679	None	vaccinated	None
-0	9110	None	vaccinated	None
-0	4259	None	vaccinated	None
-0	4155	None	vaccinated	None
-0	3176	None	vaccinated	None
-Time step 70 ended, beginning 71...0	4530	None	vaccinated	None
-0	3254	None	vaccinated	None
-0	5651	None	vaccinated	None
-0	5294	None	vaccinated	None
-0	142	None	vaccinated	None
-0	5234	None	vaccinated	None
-0	7834	None	vaccinated	None
-0	5822	None	vaccinated	None
-0	7975	None	vaccinated	None
-0	3870	None	vaccinated	None
-0	263	None	vaccinated	None
-0	7193	None	vaccinated	None
-0	7941	None	vaccinated	None
-0	5977	None	vaccinated	None
-0	5674	None	vaccinated	None
-0	8769	None	vaccinated	None
-0	4299	None	vaccinated	None
-0	4324	None	vaccinated	None
-Time step 71 ended, beginning 72...0	6394	None	vaccinated	None
-0	7129	None	vaccinated	None
-0	5553	None	vaccinated	None
-0	7822	None	vaccinated	None
-0	2320	None	vaccinated	None
-0	3641	None	vaccinated	None
-0	1333	None	vaccinated	None
-0	6116	None	vaccinated	None
-0	9709	None	vaccinated	None
-0	466	None	vaccinated	None
-0	201	None	vaccinated	None
-0	5237	None	vaccinated	None
-0	5969	None	vaccinated	None
-0	7689	None	vaccinated	None
-0	3087	None	vaccinated	None
-0	3312	None	vaccinated	None
-0	1966	None	vaccinated	None
-Time step 72 ended, beginning 73...0	9177	None	vaccinated	None
-0	8261	None	vaccinated	None
-0	9044	None	vaccinated	None
-0	7800	None	vaccinated	None
-0	4055	None	vaccinated	None
-0	9633	None	vaccinated	None
-0	9519	None	vaccinated	None
-0	6304	None	vaccinated	None
-0	6748	None	vaccinated	None
-0	9328	None	vaccinated	None
-0	8168	None	vaccinated	None
-0	182	None	vaccinated	None
-0	905	None	vaccinated	None
-0	2301	None	vaccinated	None
-0	2573	None	vaccinated	None
-0	1338	None	vaccinated	None
-0	6631	None	vaccinated	None
-0	4745	None	vaccinated	None
-0	3892	None	vaccinated	None
-0	1284	None	vaccinated	None
-0	6969	None	vaccinated	None
-0	8189	None	vaccinated	None
-0	1108	None	vaccinated	None
-0	5234	None	vaccinated	None
-0	9029	None	vaccinated	None
-0	7246	None	vaccinated	None
-0	4554	None	vaccinated	None
-0	5172	None	vaccinated	None
-0	561	None	vaccinated	None
-0	117	None	vaccinated	None
-0	8107	None	vaccinated	None
-0	5973	None	vaccinated	None
-Time step 73 ended, beginning 74...0	8545	None	vaccinated	None
-0	5721	None	vaccinated	None
-0	2976	None	vaccinated	None
-0	1749	None	vaccinated	None
-0	6359	None	vaccinated	None
-0	8970	None	vaccinated	None
-0	460	None	vaccinated	None
-0	3000	None	vaccinated	None
-0	9121	None	vaccinated	None
-0	7855	None	vaccinated	None
-0	8222	None	vaccinated	None
-0	3259	None	vaccinated	None
-0	8777	None	vaccinated	None
-0	752	None	vaccinated	None
-0	7876	None	vaccinated	None
-0	5732	None	vaccinated	None
-0	5828	None	vaccinated	None
-0	7354	None	vaccinated	None
-0	5359	None	vaccinated	None
-0	2143	None	vaccinated	None
-0	195	None	vaccinated	None
-0	4811	None	vaccinated	None
-Time step 74 ended, beginning 75...0	8735	None	vaccinated	None
-0	8660	None	vaccinated	None
-0	5894	None	vaccinated	None
-0	2440	None	vaccinated	None
-0	2505	None	vaccinated	None
-0	7649	None	vaccinated	None
-0	9500	None	vaccinated	None
-0	1877	None	vaccinated	None
-0	5624	None	vaccinated	None
-0	6265	None	vaccinated	None
-0	3784	None	vaccinated	None
-0	7216	None	vaccinated	None
-0	678	None	vaccinated	None
-0	2131	None	vaccinated	None
-0	9944	None	vaccinated	None
-0	5440	None	vaccinated	None
-0	8293	None	vaccinated	None
-0	667	None	vaccinated	None
-0	3690	None	vaccinated	None
-0	6451	None	vaccinated	None
-0	4798	None	vaccinated	None
-Time step 75 ended, beginning 76...0	3861	None	vaccinated	None
-0	4862	None	vaccinated	None
-0	6667	None	vaccinated	None
-0	4059	None	vaccinated	None
-0	577	None	vaccinated	None
-0	8991	None	vaccinated	None
-0	1711	None	vaccinated	None
-0	4941	None	vaccinated	None
-0	167	None	vaccinated	None
-0	6168	None	vaccinated	None
-0	9250	None	vaccinated	None
-0	3453	None	vaccinated	None
-0	9666	None	vaccinated	None
-0	9190	None	vaccinated	None
-0	1681	None	vaccinated	None
-0	1779	None	vaccinated	None
-0	5977	None	vaccinated	None
-0	6698	None	vaccinated	None
-0	2084	None	vaccinated	None
-0	8162	None	vaccinated	None
-0	5063	None	vaccinated	None
-0	5961	None	vaccinated	None
-Time step 76 ended, beginning 77...0	9241	None	vaccinated	None
-0	1961	None	vaccinated	None
-0	5518	None	vaccinated	None
-0	8127	None	vaccinated	None
-0	4550	None	vaccinated	None
-0	7336	None	vaccinated	None
-0	4280	None	vaccinated	None
-0	2350	None	vaccinated	None
-0	9393	None	vaccinated	None
-0	1876	None	vaccinated	None
-0	4166	None	vaccinated	None
-0	2212	None	vaccinated	None
-0	3151	None	vaccinated	None
-0	7278	None	vaccinated	None
-0	5119	None	vaccinated	None
-0	2844	None	vaccinated	None
-0	39	None	vaccinated	None
-0	7152	None	vaccinated	None
-0	6314	None	vaccinated	None
-Time step 77 ended, beginning 78...0	2013	None	vaccinated	None
-0	5899	None	vaccinated	None
-0	1186	None	vaccinated	None
-0	6025	None	vaccinated	None
-0	216	None	vaccinated	None
-0	6410	None	vaccinated	None
-0	534	None	vaccinated	None
-0	8675	None	vaccinated	None
-0	2054	None	vaccinated	None
-0	7117	None	vaccinated	None
-0	4798	None	vaccinated	None
-0	6304	None	vaccinated	None
-0	7312	None	vaccinated	None
-0	3176	None	vaccinated	None
-0	5678	None	vaccinated	None
-0	6698	None	vaccinated	None
-0	9888	None	vaccinated	None
-0	74	None	vaccinated	None
-0	5412	None	vaccinated	None
-0	7194	None	vaccinated	None
-0	3428	None	vaccinated	None
-Time step 78 ended, beginning 79...0	6501	None	vaccinated	None
-0	3986	None	vaccinated	None
-0	1668	None	vaccinated	None
-0	1726	None	vaccinated	None
-0	1179	None	vaccinated	None
-0	1807	None	vaccinated	None
-0	5793	None	vaccinated	None
-0	4522	None	vaccinated	None
-0	7941	None	vaccinated	None
-0	4261	None	vaccinated	None
-0	201	None	vaccinated	None
-0	3004	None	vaccinated	None
-0	3861	None	vaccinated	None
-0	4746	None	vaccinated	None
-0	9047	None	vaccinated	None
-0	2369	None	vaccinated	None
-0	1626	None	vaccinated	None
-0	2054	None	vaccinated	None
-Time step 79 ended, beginning 80...0	2227	None	vaccinated	None
-0	7825	None	vaccinated	None
-0	6924	None	vaccinated	None
-0	6411	None	vaccinated	None
-0	2686	None	vaccinated	None
-0	3195	None	vaccinated	None
-0	7354	None	vaccinated	None
-0	3742	None	vaccinated	None
-0	2852	None	vaccinated	None
-0	2833	None	vaccinated	None
-0	7430	None	vaccinated	None
-0	9710	None	vaccinated	None
-0	4778	None	vaccinated	None
-0	3845	None	vaccinated	None
-0	8288	None	vaccinated	None
-Time step 80 ended, beginning 81...0	6583	None	vaccinated	None
-0	7020	None	vaccinated	None
-0	3550	None	vaccinated	None
-0	9808	None	vaccinated	None
-0	8572	None	vaccinated	None
-0	7832	None	vaccinated	None
-0	5988	None	vaccinated	None
-0	223	None	vaccinated	None
-0	513	None	vaccinated	None
-0	1893	None	vaccinated	None
-0	7271	None	vaccinated	None
-0	1802	None	vaccinated	None
-0	4335	None	vaccinated	None
-0	301	None	vaccinated	None
-0	1892	None	vaccinated	None
+Time step 38 ended, beginning 39...
 0	798	None	vaccinated	None
-0	1366	None	vaccinated	None
-0	5355	None	vaccinated	None
-0	3040	None	vaccinated	None
-0	2725	None	vaccinated	None
-0	2853	None	vaccinated	None
-0	6329	None	vaccinated	None
-0	1726	None	vaccinated	None
-0	127	None	vaccinated	None
-0	7788	None	vaccinated	None
-Time step 81 ended, beginning 82...0	7354	None	vaccinated	None
-0	5184	None	vaccinated	None
-0	5479	None	vaccinated	None
-0	1804	None	vaccinated	None
-0	9078	None	vaccinated	None
-0	93	None	vaccinated	None
-0	5922	None	vaccinated	None
-0	4321	None	vaccinated	None
-0	460	None	vaccinated	None
-0	890	None	vaccinated	None
-0	6937	None	vaccinated	None
-0	4830	None	vaccinated	None
-0	7271	None	vaccinated	None
-0	4711	None	vaccinated	None
-0	718	None	vaccinated	None
-0	3139	None	vaccinated	None
-0	2476	None	vaccinated	None
-0	2674	None	vaccinated	None
-0	6451	None	vaccinated	None
-0	7611	None	vaccinated	None
-0	9074	None	vaccinated	None
-0	1616	None	vaccinated	None
-0	4228	None	vaccinated	None
-Time step 82 ended, beginning 83...0	4310	None	vaccinated	None
-0	6823	None	vaccinated	None
-0	7202	None	vaccinated	None
-0	3340	None	vaccinated	None
-0	6715	None	vaccinated	None
-0	6591	None	vaccinated	None
-0	121	None	vaccinated	None
-0	2002	None	vaccinated	None
-0	1857	None	vaccinated	None
-0	1439	None	vaccinated	None
-0	485	None	vaccinated	None
-0	5208	None	vaccinated	None
-0	9619	None	vaccinated	None
-0	6912	None	vaccinated	None
-0	7171	None	vaccinated	None
-0	9059	None	vaccinated	None
-0	2014	None	vaccinated	None
-0	3371	None	vaccinated	None
-0	2000	None	vaccinated	None
-0	7750	None	vaccinated	None
-0	4778	None	vaccinated	None
-0	7151	None	vaccinated	None
-0	8653	None	vaccinated	None
-Time step 83 ended, beginning 84...0	8375	None	vaccinated	None
-0	5536	None	vaccinated	None
-0	4572	None	vaccinated	None
-0	8114	None	vaccinated	None
-0	4212	None	vaccinated	None
-0	3085	None	vaccinated	None
-0	4429	None	vaccinated	None
-0	1707	None	vaccinated	None
-0	7016	None	vaccinated	None
-0	1826	None	vaccinated	None
-0	3726	None	vaccinated	None
-0	4559	None	vaccinated	None
-0	6080	None	vaccinated	None
-0	4073	None	vaccinated	None
-0	7828	None	vaccinated	None
-0	5902	None	vaccinated	None
-Time step 84 ended, beginning 85...0	1893	None	vaccinated	None
-0	6518	None	vaccinated	None
-0	9813	None	vaccinated	None
-0	7914	None	vaccinated	None
-0	2509	None	vaccinated	None
-0	1554	None	vaccinated	None
-0	5674	None	vaccinated	None
-0	577	None	vaccinated	None
-0	2908	None	vaccinated	None
-0	7994	None	vaccinated	None
-0	8728	None	vaccinated	None
-0	6451	None	vaccinated	None
-0	8229	None	vaccinated	None
-0	5443	None	vaccinated	None
-0	2624	None	vaccinated	None
-0	2244	None	vaccinated	None
-0	3509	None	vaccinated	None
-Time step 85 ended, beginning 86...0	1506	None	vaccinated	None
-0	3104	None	vaccinated	None
-0	4167	None	vaccinated	None
-0	1658	None	vaccinated	None
-0	5071	None	vaccinated	None
-0	7883	None	vaccinated	None
-0	4274	None	vaccinated	None
-0	2350	None	vaccinated	None
-0	825	None	vaccinated	None
-0	2227	None	vaccinated	None
-0	3706	None	vaccinated	None
-0	35	None	vaccinated	None
-0	9958	None	vaccinated	None
-0	6477	None	vaccinated	None
-0	8004	None	vaccinated	None
-0	3454	None	vaccinated	None
-0	7435	None	vaccinated	None
-0	2440	None	vaccinated	None
-0	6918	None	vaccinated	None
-0	1170	None	vaccinated	None
-0	2091	None	vaccinated	None
-0	2434	None	vaccinated	None
-0	1393	None	vaccinated	None
-0	3075	None	vaccinated	None
-0	2793	None	vaccinated	None
-0	2971	None	vaccinated	None
-Time step 86 ended, beginning 87...0	2787	None	vaccinated	None
-0	5271	None	vaccinated	None
-0	7774	None	vaccinated	None
-0	970	None	vaccinated	None
-0	195	None	vaccinated	None
-0	7202	None	vaccinated	None
-0	9074	None	vaccinated	None
-0	3044	None	vaccinated	None
-0	8903	None	vaccinated	None
-0	4941	None	vaccinated	None
-0	51	None	vaccinated	None
-0	7278	None	vaccinated	None
-0	4559	None	vaccinated	None
-0	7170	None	vaccinated	None
-0	4099	None	vaccinated	None
-0	7202	None	vaccinated	None
-0	249	None	vaccinated	None
-0	3349	None	vaccinated	None
-0	9040	None	vaccinated	None
-0	8375	None	vaccinated	None
-0	5275	None	vaccinated	None
-Time step 87 ended, beginning 88...0	6080	None	vaccinated	None
-0	3544	None	vaccinated	None
-0	6817	None	vaccinated	None
-0	1131	None	vaccinated	None
-0	1869	None	vaccinated	None
-0	1264	None	vaccinated	None
-0	6785	None	vaccinated	None
-0	8476	None	vaccinated	None
-0	9156	None	vaccinated	None
-0	7834	None	vaccinated	None
-Time step 88 ended, beginning 89...0	6301	None	vaccinated	None
-0	2119	None	vaccinated	None
-0	371	None	vaccinated	None
-0	1617	None	vaccinated	None
-0	9312	None	vaccinated	None
-0	4309	None	vaccinated	None
-0	7134	None	vaccinated	None
-0	8824	None	vaccinated	None
-0	1301	None	vaccinated	None
-0	4317	None	vaccinated	None
-0	3038	None	vaccinated	None
-0	5923	None	vaccinated	None
-0	6060	None	vaccinated	None
-0	6878	None	vaccinated	None
-0	2855	None	vaccinated	None
-0	7843	None	vaccinated	None
-0	9353	None	vaccinated	None
-0	5887	None	vaccinated	None
-0	612	None	vaccinated	None
-0	4798	None	vaccinated	None
-Time step 89 ended, beginning 90...0	8773	None	vaccinated	None
-0	5750	None	vaccinated	None
-0	6963	None	vaccinated	None
-0	647	None	vaccinated	None
-0	1749	None	vaccinated	None
-0	1925	None	vaccinated	None
-0	1663	None	vaccinated	None
-0	2560	None	vaccinated	None
-0	4055	None	vaccinated	None
-0	9567	None	vaccinated	None
-0	7513	None	vaccinated	None
-0	948	None	vaccinated	None
-0	2656	None	vaccinated	None
-0	5034	None	vaccinated	None
-0	6771	None	vaccinated	None
-0	4161	None	vaccinated	None
-0	4792	None	vaccinated	None
-0	4555	None	vaccinated	None
-0	5987	None	vaccinated	None
-0	9944	None	vaccinated	None
-0	8331	None	vaccinated	None
-0	1102	None	vaccinated	None
-Time step 90 ended, beginning 91...0	4454	None	vaccinated	None
-0	2574	None	vaccinated	None
-0	7496	None	vaccinated	None
-0	9424	None	vaccinated	None
-0	9411	None	vaccinated	None
-0	5071	None	vaccinated	None
-0	5566	None	vaccinated	None
-0	9177	None	vaccinated	None
-0	3371	None	vaccinated	None
-0	8814	None	vaccinated	None
-0	6937	None	vaccinated	None
-0	2077	None	vaccinated	None
-0	8818	None	vaccinated	None
-0	7130	None	vaccinated	None
-0	7086	None	vaccinated	None
-0	939	None	vaccinated	None
-0	1337	None	vaccinated	None
-0	3108	None	vaccinated	None
-0	2681	None	vaccinated	None
-0	3450	None	vaccinated	None
-0	7130	None	vaccinated	None
-0	253	None	vaccinated	None
-Time step 91 ended, beginning 92...0	9686	None	vaccinated	None
-0	7945	None	vaccinated	None
-0	4964	None	vaccinated	None
-0	7822	None	vaccinated	None
-0	7668	None	vaccinated	None
-0	8818	None	vaccinated	None
-0	9004	None	vaccinated	None
-0	5518	None	vaccinated	None
-0	5542	None	vaccinated	None
-0	9261	None	vaccinated	None
-0	2630	None	vaccinated	None
-0	6374	None	vaccinated	None
-0	986	None	vaccinated	None
-0	374	None	vaccinated	None
-0	7129	None	vaccinated	None
-0	5017	None	vaccinated	None
-0	2825	None	vaccinated	None
-Time step 92 ended, beginning 93...0	6522	None	vaccinated	None
-0	1681	None	vaccinated	None
-0	7834	None	vaccinated	None
-0	8044	None	vaccinated	None
-0	6882	None	vaccinated	None
-0	3162	None	vaccinated	None
-0	2844	None	vaccinated	None
-0	2882	None	vaccinated	None
-0	1623	None	vaccinated	None
-0	1211	None	vaccinated	None
-0	8686	None	vaccinated	None
-0	7870	None	vaccinated	None
-0	301	None	vaccinated	None
-0	3416	None	vaccinated	None
-0	9047	None	vaccinated	None
-0	1479	None	vaccinated	None
-0	9457	None	vaccinated	None
-0	2859	None	vaccinated	None
-0	1116	None	vaccinated	None
-0	8886	None	vaccinated	None
-0	9668	None	vaccinated	None
-Time step 93 ended, beginning 94...0	1345	None	vaccinated	None
-0	3089	None	vaccinated	None
-0	6304	None	vaccinated	None
-0	9403	None	vaccinated	None
-0	9136	None	vaccinated	None
-0	5853	None	vaccinated	None
-0	8681	None	vaccinated	None
-0	4913	None	vaccinated	None
-0	6306	None	vaccinated	None
-0	7853	None	vaccinated	None
-0	5021	None	vaccinated	None
-0	5316	None	vaccinated	None
-0	7780	None	vaccinated	None
-0	2238	None	vaccinated	None
-0	9428	None	vaccinated	None
-0	1222	None	vaccinated	None
-0	2587	None	vaccinated	None
-0	8372	None	vaccinated	None
-0	9148	None	vaccinated	None
-0	8626	None	vaccinated	None
-0	9328	None	vaccinated	None
-0	4212	None	vaccinated	None
-0	6284	None	vaccinated	None
-0	1367	None	vaccinated	None
-Time step 94 ended, beginning 95...0	3611	None	vaccinated	None
-0	8417	None	vaccinated	None
-0	1131	None	vaccinated	None
-0	4584	None	vaccinated	None
-0	4085	None	vaccinated	None
-0	3637	None	vaccinated	None
-0	1293	None	vaccinated	None
-0	6062	None	vaccinated	None
-0	1301	None	vaccinated	None
-0	8374	None	vaccinated	None
-0	4950	None	vaccinated	None
-0	3690	None	vaccinated	None
-0	942	None	vaccinated	None
-0	1366	None	vaccinated	None
-0	93	None	vaccinated	None
-0	2609	None	vaccinated	None
-0	4277	None	vaccinated	None
-Time step 95 ended, beginning 96...0	3419	None	vaccinated	None
-0	868	None	vaccinated	None
-0	2802	None	vaccinated	None
-0	678	None	vaccinated	None
-0	1367	None	vaccinated	None
-0	5553	None	vaccinated	None
-0	1843	None	vaccinated	None
-0	7941	None	vaccinated	None
-0	9944	None	vaccinated	None
-0	134	None	vaccinated	None
-0	4478	None	vaccinated	None
-0	5072	None	vaccinated	None
-0	6565	None	vaccinated	None
-0	4224	None	vaccinated	None
-0	9203	None	vaccinated	None
-0	9298	None	vaccinated	None
-0	5411	None	vaccinated	None
-Time step 96 ended, beginning 97...0	764	None	vaccinated	None
-0	4746	None	vaccinated	None
-0	2374	None	vaccinated	None
-0	6625	None	vaccinated	None
-0	8088	None	vaccinated	None
-0	5677	None	vaccinated	None
-0	3724	None	vaccinated	None
-0	8385	None	vaccinated	None
-0	6729	None	vaccinated	None
-0	8353	None	vaccinated	None
-0	7278	None	vaccinated	None
-0	704	None	vaccinated	None
-0	2342	None	vaccinated	None
-0	4174	None	vaccinated	None
-0	1028	None	vaccinated	None
-0	4830	None	vaccinated	None
-0	2455	None	vaccinated	None
-0	1287	None	vaccinated	None
-0	7194	None	vaccinated	None
-0	173	None	vaccinated	None
-0	8763	None	vaccinated	None
-0	7739	None	vaccinated	None
-0	7659	None	vaccinated	None
-0	7520	None	vaccinated	None
-0	1368	None	vaccinated	None
-0	618	None	vaccinated	None
-0	6024	None	vaccinated	None
-Time step 97 ended, beginning 98...0	1681	None	vaccinated	None
-0	9064	None	vaccinated	None
-0	3810	None	vaccinated	None
-0	1922	None	vaccinated	None
-0	7950	None	vaccinated	None
-0	3215	None	vaccinated	None
-0	5657	None	vaccinated	None
-0	4384	None	vaccinated	None
-0	8839	None	vaccinated	None
-0	9164	None	vaccinated	None
-0	8042	None	vaccinated	None
-0	1144	None	vaccinated	None
-0	2759	None	vaccinated	None
-0	1020	None	vaccinated	None
-0	6772	None	vaccinated	None
-0	5688	None	vaccinated	None
-Time step 98 ended, beginning 99...0	890	None	vaccinated	None
-0	5894	None	vaccinated	None
-0	6155	None	vaccinated	None
-0	8412	None	vaccinated	None
-0	2427	None	vaccinated	None
-0	9004	None	vaccinated	None
-0	9156	None	vaccinated	None
-0	6381	None	vaccinated	None
-0	5285	None	vaccinated	None
-0	4798	None	vaccinated	None
-0	8442	None	vaccinated	None
-0	7054	None	vaccinated	None
-0	21	None	vaccinated	None
-0	7659	None	vaccinated	None
-0	241	None	vaccinated	None
-0	8004	None	vaccinated	None
-0	8679	None	vaccinated	None
-0	1937	None	vaccinated	None
-Time step 99 ended, beginning 100...0	8322	None	vaccinated	None
-0	8879	None	vaccinated	None
-0	2948	None	vaccinated	None
-0	7941	None	vaccinated	None
-0	43	None	vaccinated	None
-0	7669	None	vaccinated	None
-0	1505	None	vaccinated	None
-0	7171	None	vaccinated	None
-0	5661	None	vaccinated	None
-0	2000	None	vaccinated	None
-0	1516	None	vaccinated	None
-0	1668	None	vaccinated	None
-0	361	None	vaccinated	None
-0	2382	None	vaccinated	None
-0	9203	None	vaccinated	None
-0	9295	None	vaccinated	None
-0	3336	None	vaccinated	None
-0	6151	None	vaccinated	None
-Time step 100 ended, beginning 101...0	743	None	vaccinated	None
-0	4942	None	vaccinated	None
-0	1138	None	vaccinated	None
-0	5017	None	vaccinated	None
-0	5162	None	vaccinated	None
-0	9042	None	vaccinated	None
-0	1922	None	vaccinated	None
-0	519	None	vaccinated	None
-0	9562	None	vaccinated	None
-0	3637	None	vaccinated	None
-0	8489	None	vaccinated	None
-0	3920	None	vaccinated	None
-0	5314	None	vaccinated	None
-0	2515	None	vaccinated	None
-0	5084	None	vaccinated	None
-0	8950	None	vaccinated	None
-0	7024	None	vaccinated	None
-0	7656	None	vaccinated	None
-0	657	None	vaccinated	None
-0	2624	None	vaccinated	None
-Time step 101 ended, beginning 102...0	6771	None	vaccinated	None
-0	7954	None	vaccinated	None
-0	948	None	vaccinated	None
-0	2412	None	vaccinated	None
-0	2780	None	vaccinated	None
-0	8191	None	vaccinated	None
-0	825	None	vaccinated	None
-0	7646	None	vaccinated	None
-0	1626	None	vaccinated	None
-0	184	None	vaccinated	None
-0	9633	None	vaccinated	None
-0	769	None	vaccinated	None
-0	6053	None	vaccinated	None
-0	8250	None	vaccinated	None
-0	6918	None	vaccinated	None
-0	1652	None	vaccinated	None
-0	7255	None	vaccinated	None
-0	1020	None	vaccinated	None
-Time step 102 ended, beginning 103...0	9027	None	vaccinated	None
-0	8748	None	vaccinated	None
-0	4177	None	vaccinated	None
-0	6823	None	vaccinated	None
-0	8834	None	vaccinated	None
-0	2219	None	vaccinated	None
-0	2994	None	vaccinated	None
-0	1150	None	vaccinated	None
-0	5479	None	vaccinated	None
-0	1315	None	vaccinated	None
-0	7202	None	vaccinated	None
-0	3281	None	vaccinated	None
-0	7872	None	vaccinated	None
-0	9867	None	vaccinated	None
-0	3217	None	vaccinated	None
-0	1822	None	vaccinated	None
-0	8923	None	vaccinated	None
-0	639	None	vaccinated	None
-0	7122	None	vaccinated	None
-Time step 103 ended, beginning 104...0	229	None	vaccinated	None
-0	6569	None	vaccinated	None
-0	5440	None	vaccinated	None
-0	4821	None	vaccinated	None
-0	7959	None	vaccinated	None
-0	8372	None	vaccinated	None
-0	5618	None	vaccinated	None
-0	4310	None	vaccinated	None
-0	5473	None	vaccinated	None
-0	6912	None	vaccinated	None
-0	7445	None	vaccinated	None
-0	2859	None	vaccinated	None
-0	4256	None	vaccinated	None
-0	1707	None	vaccinated	None
-0	2681	None	vaccinated	None
-0	3582	None	vaccinated	None
-0	8597	None	vaccinated	None
-0	6394	None	vaccinated	None
-0	6577	None	vaccinated	None
-0	1297	None	vaccinated	None
-Time step 104 ended, beginning 105...0	1264	None	vaccinated	None
-0	7011	None	vaccinated	None
-0	7109	None	vaccinated	None
-0	1236	None	vaccinated	None
-0	769	None	vaccinated	None
-0	5826	None	vaccinated	None
-0	9713	None	vaccinated	None
-0	4073	None	vaccinated	None
-0	2560	None	vaccinated	None
-0	9348	None	vaccinated	None
-0	8176	None	vaccinated	None
-0	3248	None	vaccinated	None
-0	2586	None	vaccinated	None
-0	1785	None	vaccinated	None
-0	6501	None	vaccinated	None
-0	968	None	vaccinated	None
-0	4142	None	vaccinated	None
-0	367	None	vaccinated	None
-0	9425	None	vaccinated	None
-Time step 105 ended, beginning 106...0	1303	None	vaccinated	None
-0	1338	None	vaccinated	None
-0	6737	None	vaccinated	None
-0	5884	None	vaccinated	None
-0	9822	None	vaccinated	None
-0	9190	None	vaccinated	None
-0	5184	None	vaccinated	None
-0	3068	None	vaccinated	None
-0	972	None	vaccinated	None
-0	5294	None	vaccinated	None
-0	2681	None	vaccinated	None
-0	3742	None	vaccinated	None
-0	3784	None	vaccinated	None
-0	335	None	vaccinated	None
-0	7503	None	vaccinated	None
-0	4831	None	vaccinated	None
-0	4706	None	vaccinated	None
-0	3723	None	vaccinated	None
-0	7445	None	vaccinated	None
-0	2121	None	vaccinated	None
-0	7877	None	vaccinated	None
-0	1683	None	vaccinated	None
-0	166	None	vaccinated	None
-0	356	None	vaccinated	None
-0	7246	None	vaccinated	None
-0	4254	None	vaccinated	None
-0	2148	None	vaccinated	None
-Time step 106 ended, beginning 107...0	2108	None	vaccinated	None
-0	8237	None	vaccinated	None
-0	824	None	vaccinated	None
-0	2948	None	vaccinated	None
+0	4261	None	vaccinated	None

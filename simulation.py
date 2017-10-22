@@ -180,7 +180,7 @@ class Simulation(object):
             #log end of time step
             self.logger.log_time_step(time_step_counter)
             
-        print('The simulation has ended after {time_step_counter} turns.'.format(time_step_counter))
+        print('The simulation has ended after {} turns.'.format(time_step_counter))
 
     def time_step(self):
         # TODO: Finish this method!  This method should contain all the basic logic
@@ -209,7 +209,12 @@ class Simulation(object):
                             self.interaction(person, random_person)
                             interaction_ct += 1
                             keep_searching = False
+                        
+
         self._infect_newly_infected()
+        #run single course of virus through people
+        for person in self.population:
+            person.did_survive_infection()
                         
             
 
@@ -244,16 +249,16 @@ class Simulation(object):
         
         #Random Person is Already Infected
         if random_person.infected:
-            self.logger.log_interaction(person, random_person)
+            self.logger.log_interaction(person, random_person, "Already Infected")
             return
 
         #Random Person is Healthy and UnVaccinated:
-            roll = random.random()
-            if roll < self.basic_repro_num:
-                #Random Person now has taint
-                console.log(random_person._id)
-                self.newly_infected.append(random_person)
-                self.logger.log_interaction(person, random_person, "did infect" )
+        roll = random.random()
+        if roll < self.basic_repro_num:
+            #Random Person now has taint
+            
+            self.newly_infected.append(random_person)
+            self.logger.log_interaction(person, random_person, "did infect" )
 
 
 
@@ -270,7 +275,6 @@ class Simulation(object):
 
         for person in self.newly_infected:
             person.infect(self._virus)
-            person.did_survive_infection()
         
         self.newly_infected = []
 
