@@ -38,8 +38,8 @@ class Simulation(object):
     vacc_percentage: Float between 0 and 1.  Represents the total percentage of population
         vaccinated for the given simulation.
 
-    current_infected: Int.  The number of currently people in the population currently
-        infected with the disease in the simulation.
+    current_infected: Int.  The number of people in the simulation population currently
+        infected with the disease.
 
     total_infected: Int.  The running total of people that have been infected since the
     simulation began, including any people currently infected.
@@ -80,6 +80,7 @@ class Simulation(object):
         self.virus_name = virus_name
         self.mortality_rate = mortality_rate
         self.basic_repro_num = basic_repro_num
+        self.vacc_percentage = vacc_percentage
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
             virus_name, population_size, vacc_percentage, initial_infected)
         self._virus = Virus(virus_name, mortality_rate, basic_repro_num)
@@ -163,7 +164,7 @@ class Simulation(object):
         # time_step_counter variable!
 
         #Log Start of Simulation
-        self.logger.write_metadata()
+        self.logger.write_metadata(self.population_size, self.vacc_percentage, self._virus.name, self.mortality_rate, self.basic_repro_num)
         time_step_counter = 0
         # TODO: Remember to set this variable to an intial call of
         # self._simulation_should_continue()!
@@ -193,7 +194,27 @@ class Simulation(object):
             #           - Else:
             #               - Call simulation.interaction(person, random_person)
             #               - Increment interaction counter by 1.
-            pass
+
+        interaction_ct = 0
+        while interaction_ct < 100:
+            for person in self.population:
+                if person.infected and person.is_alive:
+                    keep_searching = True
+                    while keep_searching:
+                        #get random person
+                        random_person_id = random.randint(1, self.population_size)
+                        random_person = self.population[random_person_id]
+
+                        if random_person.is_alive:
+                            interaction(person, random_person)
+                            keep_searching = False
+
+                        
+            interaction_ct += 1
+
+
+
+                
 
     def interaction(self, person, random_person):
         # TODO: Finish this method! This method should be called any time two living
@@ -214,7 +235,26 @@ class Simulation(object):
             #     Simulation object's newly_infected array, so that their .infected
             #     attribute can be changed to True at the end of the time step.
         # TODO: Remember to call self.logger.log_interaction() during this method!
-        pass
+        
+        #Random Person is Vaccinated
+        if random_person.is_vaccinated:
+            self.logger(person, random_person)
+            return
+        
+        #Random Person is Already Infected
+        if random_person.infected:
+            self.logger.log_interaction(person, random_person)
+            return
+
+        #Random Person is Healthy and UnVaccinated:
+            roll = random.random()
+            if roll < self.basic_repro_num:
+                #Random Person now has taint
+                console.log(random_person._id)
+                self.newly_infected.append(random_person._id )
+                self.logger.log_interaction(person, random_person, "did infect" )
+
+
 
     def _infect_newly_infected(self):
         # TODO: Finish this method! This method should be called at the end of
