@@ -202,7 +202,7 @@ class Simulation(object):
                     keep_searching = True
                     while keep_searching:
                         #get random person
-                        random_person_id = random.randint(1, self.population_size)
+                        random_person_id = random.randint(0, self.population_size-1)
                         random_person = self.population[random_person_id]
 
                         if random_person.is_alive:
@@ -251,7 +251,7 @@ class Simulation(object):
             if roll < self.basic_repro_num:
                 #Random Person now has taint
                 console.log(random_person._id)
-                self.newly_infected.append(random_person._id )
+                self.newly_infected.append(random_person)
                 self.logger.log_interaction(person, random_person, "did infect" )
 
 
@@ -266,7 +266,12 @@ class Simulation(object):
         #   - Set this Person's .infected attribute to True.
         # NOTE: Once you have iterated through the entire list of self.newly_infected, remember
         # to reset self.newly_infected back to an empty list!
-        pass
+
+        for person in self.newly_infected:
+            person.infect(self._virus)
+            person.did_survive_infection()
+        
+        self.newly_infected = []
 
 if __name__ == "__main__":
     params = sys.argv[1:]

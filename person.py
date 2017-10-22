@@ -49,6 +49,8 @@ class Person(object):
         self.is_alive = True
         self.infected = infected
 
+    def infect(virus_obj):
+        self.infected = virus_obj
 
     def did_survive_infection(self):
         # TODO:  Finish this method. Follow the instructions in the class documentation
