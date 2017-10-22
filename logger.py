@@ -86,7 +86,7 @@ class Logger(object):
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
 
-        interaction = ("{}\t{}\t{}\t{}\t{}\n".format(person1, person2, did_infect, person2_vacc, person2_sick))
+        interaction = ("{}\t{}\t{}\t{}\t{}\n".format(person1._id, person2._id, did_infect, person2_vacc, person2_sick))
         with open( './logs/' + self.file_name, 'a') as logfile:
             logfile.write(interaction)
 

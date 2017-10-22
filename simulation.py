@@ -206,7 +206,7 @@ class Simulation(object):
                         random_person = self.population[random_person_id]
 
                         if random_person.is_alive:
-                            interaction(person, random_person)
+                            self.interaction(person, random_person)
                             keep_searching = False
 
                         
@@ -221,7 +221,7 @@ class Simulation(object):
         # people are selected for an interaction.  That means that only living people
         # should be passed into this method.  Assert statements are included to make sure
         # that this doesn't happen.
-        assert person1.is_alive == True
+        assert person.is_alive == True
         assert random_person.is_alive == True
 
         # The possible cases you'll need to cover are listed below:
@@ -238,7 +238,7 @@ class Simulation(object):
         
         #Random Person is Vaccinated
         if random_person.is_vaccinated:
-            self.logger(person, random_person)
+            self.logger.log_interaction(person, random_person, None, "vaccinated")
             return
         
         #Random Person is Already Infected
