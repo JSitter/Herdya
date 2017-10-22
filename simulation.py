@@ -176,7 +176,7 @@ class Simulation(object):
         # to rebind should_continue to another call of self._simulation_should_continue()!
             self.time_step()
             should_continue = self._simulation_should_continue()
-
+            time_step_counter += 1
             #log end of time step
             self.logger.log_time_step(time_step_counter)
             
@@ -207,10 +207,11 @@ class Simulation(object):
 
                         if random_person.is_alive:
                             self.interaction(person, random_person)
+                            interaction_ct += 1
                             keep_searching = False
-
+        self._infect_newly_infected()
                         
-            interaction_ct += 1
+            
 
 
 
