@@ -217,7 +217,7 @@ class Simulation(object):
             if person.did_survive_infection():
                 self.logger.log_infection_survival(person._id, True)
             else:
-                self.logger.log_infection_survival(person, False)
+                self.logger.log_infection_survival(person._id, False)
                         
             
 

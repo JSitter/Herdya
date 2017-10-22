@@ -78,6 +78,16 @@
 1	8	did infect	None	None
 2	0	Already Infected	None	None
 3	3	Already Infected	None	None
+0 survived infection
+1 died from infection
+2 died from infection
+3 survived infection
+4 survived infection
+5 survived infection
+6 died from infection
+7 died from infection
+8 survived infection
+9 survived infection
 Time step 1 ended, beginning 2...
 0	3	Already Infected	None	None
 3	8	Already Infected	None	None
@@ -181,6 +191,16 @@ Time step 1 ended, beginning 2...
 5	0	Already Infected	None	None
 8	9	Already Infected	None	None
 9	8	Already Infected	None	None
+0 survived infection
+1 died from infection
+2 died from infection
+3 died from infection
+4 died from infection
+5 died from infection
+6 survived infection
+7 died from infection
+8 died from infection
+9 died from infection
 Time step 2 ended, beginning 3...
 0	0	Already Infected	None	None
 0	0	Already Infected	None	None
@@ -282,6 +302,16 @@ Time step 2 ended, beginning 3...
 0	0	Already Infected	None	None
 0	0	Already Infected	None	None
 0	0	Already Infected	None	None
+0 survived infection
+1 died from infection
+2 survived infection
+3 survived infection
+4 survived infection
+5 survived infection
+6 died from infection
+7 survived infection
+8 died from infection
+9 survived infection
 Time step 3 ended, beginning 4...
 0	0	Already Infected	None	None
 0	0	Already Infected	None	None
@@ -383,4 +413,14 @@ Time step 3 ended, beginning 4...
 0	0	Already Infected	None	None
 0	0	Already Infected	None	None
 0	0	Already Infected	None	None
+0 died from infection
+1 died from infection
+2 died from infection
+3 died from infection
+4 died from infection
+5 died from infection
+6 survived infection
+7 survived infection
+8 died from infection
+9 survived infection
 Time step 4 ended, beginning 5...
