@@ -86,7 +86,7 @@ class Logger(object):
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
 
-        interaction = ("{}\t{}\t{}\t{}\t{}\n".format(person1._id, person2._id, did_infect, person2_vacc, person2_sick))
+        interaction = "{}\t{}\t{}\t{}\t{}\n".format(person1._id, person2._id, did_infect, person2_vacc, person2_sick)
         with open( './logs/' + self.file_name, 'a') as logfile:
             logfile.write(interaction)
 
@@ -120,4 +120,4 @@ class Logger(object):
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
         with open('./logs/'+self.file_name, "a") as logfile:
-            logfile.write("Time step {} ended, beginning {}...".format(time_step_number, time_step_number + 1))
+            logfile.write("Time step {} ended, beginning {}...\n".format(time_step_number, time_step_number + 1))
