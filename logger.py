@@ -121,3 +121,7 @@ class Logger(object):
         # event logged ends up on a separate line!
         with open('./logs/'+self.file_name, "a") as logfile:
             logfile.write("Time step {} ended, beginning {}...\n".format(time_step_number, time_step_number + 1))
+
+    def loglog(self, "message"):
+        with open('./logs/'+self.file_name, "a") as logfile:
+            logfile.write("***Debug Statement***\n {} \n".format(message))
